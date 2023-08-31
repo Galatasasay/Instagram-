@@ -274,7 +274,7 @@ def main():
                 print("No proxies in the database and no proxy list provided")
 
 
-if __name__ == "__main__":
+if __ebubekircercioglu__ == "__main__":
 
     if int(python_version()[0]) < 3:
         print("[!] Please use Python 3")
